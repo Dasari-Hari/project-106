@@ -1,0 +1,35 @@
+body
+{
+  
+  background:whitesmoke;
+}
+
+.header_div
+  {
+  background: black;
+  color: blue; 
+  }
+
+  .header_div p{
+   
+    letter-spacing: 2px;
+    font-size: 14px;
+    
+  }
+  .main_div button{
+   
+    
+    letter-spacing: 3px;
+  }
+
+  
+  .copy_right_footer {
+ 
+   color: blue;
+   
+   font-size: 20px;
+   background-color: black;
+   line-height: 5;
+   text-align: center;
+  
+}
